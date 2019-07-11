@@ -1,0 +1,8 @@
+No found 3 in range
+No found 3 in range
+No found 2 in range
+No found 3 in range
+No found 3 in range
+No found 3 in range
+Found 3 at position 2
+Found 3 at position 2
